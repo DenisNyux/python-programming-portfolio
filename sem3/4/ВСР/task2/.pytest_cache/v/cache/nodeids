@@ -1,0 +1,5 @@
+[
+  "test.py::TestTableMethods::test_file_extr",
+  "test.py::TestTableMethods::test_lst_to_str",
+  "test.py::TestTableMethods::test_maketable_is_str"
+]

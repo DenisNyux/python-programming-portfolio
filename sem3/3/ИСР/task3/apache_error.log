@@ -1,0 +1,24 @@
+[Thu Jun 20 23:53:33 2019] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 20 23:53:33 2019] [notice] Digest: done
+[Thu Jun 20 23:53:33 2019] [notice] FastCGI: process manager initialized (pid 1797)
+[Thu Jun 20 23:53:33 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jun 20 23:53:59 2019] [notice] caught SIGTERM, shutting down
+[Thu Oct 31 11:49:39 2019] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 31 11:49:39 2019] [notice] Digest: done
+[Thu Oct 31 11:49:39 2019] [notice] FastCGI: process manager initialized (pid 1049)
+[Thu Oct 31 11:49:39 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Oct 31 11:50:08 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/api
+[Thu Oct 31 11:50:10 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/login
+[Thu Oct 31 11:50:11 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/api
+[Thu Oct 31 11:50:13 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/custom, referer: http://localhost:8888/login?next=%2Ftree%3F
+[Thu Oct 31 11:50:15 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/api
+[Thu Oct 31 11:50:18 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/mamp
+[Thu Oct 31 11:50:23 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/api
+[Thu Oct 31 11:50:39 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/api
+[Thu Oct 31 11:50:40 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/mamp
+[Thu Oct 31 11:50:59 2019] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/1
+[Thu Oct 31 11:51:11 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/api
+[Thu Oct 31 11:51:20 2019] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/1
+[Thu Oct 31 11:51:34 2019] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/2
+[Thu Oct 31 11:51:49 2019] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/23
+[Thu Oct 31 11:52:15 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/api
