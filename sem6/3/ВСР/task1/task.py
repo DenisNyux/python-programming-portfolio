@@ -3,9 +3,9 @@ import tkinter.messagebox
 
 
 
-field = [0, 0, 0, 0, 0, 0, 0, 0, 0] #список значений 1 или 2
-XO = 1#крестик - 1, нолик - 2
-numButton = [] #список нажатых кнопок
+field = [0, 0, 0, 0, 0, 0, 0, 0, 0] 
+XO = 1
+numButton = [] 
 
 
 def close_window(event):
@@ -67,12 +67,12 @@ def click(button, num):
     if num not in numButton:
         global XO
         if XO == 1:
-            button.config(text = 'Нолик')
+            button.config(text = 'O\nНолик')
             button.config(bg = '#64dcd1')
             field[num] = XO
             XO = 2
         else:
-            button.config(text = 'Крестик')
+            button.config(text = 'X\nКрестик')
             button.config(bg = '#f17c80')
             field[num] = XO
             XO = 1
