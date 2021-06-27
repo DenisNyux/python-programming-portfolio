@@ -4,7 +4,6 @@ def decorator(func):
     @functools.wraps(func)
     def wrap(*args):
         f = open('output.log', 'w')
-        #print("Смотри, что я получил:", args[0], args[1], args[2])
         result = func(*args)
         name = ''
         if (args[2] == '+'):
