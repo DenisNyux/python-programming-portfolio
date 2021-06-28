@@ -85,7 +85,7 @@ def click(button, num):
 
 root = Tk()
 root.title("Крестики-нолики")
-root.geometry("500x500")
+root.geometry("283x257")
 root.resizable(False, False)
 
 ris0 = Button(root, width=10, height=5, bg="#84e87c", command=lambda:click(ris0, 0))
