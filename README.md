@@ -94,7 +94,7 @@
 ## Седьмой семестр
 
 ЛР:
-* [ЛР1](sem7/lr1)
+* [ЛР1](https://replit.com/@DenisNyukhalov/sem7-task1#main.py)
 * [ЛР2](https://hub.docker.com/r/denisnyux/prog-lr1)
 * [ЛР3](sem7/lr3)
 * [Доклад](https://github.com/DenisNyux/ci-proj)
