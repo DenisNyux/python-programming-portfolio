@@ -90,3 +90,18 @@
 * [ЛР1](sem6/Лабораторные_работы/ЛР1-2/LR)
 * [ЛР3-4](sem6/Лабораторные_работы/ЛР3-4/main.py)
 * [ЛР5](https://colab.research.google.com/drive/1q3dNuVBNwP-0HYgsty19t-L9n_OYOtAx?usp=sharing)
+
+## Седьмой семестр
+
+ЛР:
+* [ЛР1](sem7/lr1)
+* [ЛР2](https://hub.docker.com/r/denisnyux/prog-lr1)
+* [ЛР3](sem7/lr3)
+* [Доклад](https://github.com/DenisNyux/ci-proj)
+* [ЛР4](https://github.com/DenisNyux/flask_react)
+* [ЛР5](https://replit.com/@DenisNyukhalov/LR5-sem7#main.py)
+* [ЛР6](https://replit.com/@DenisNyukhalov/LR6-sem7#main.py)
+* [ЛР7](sem7/sitelr)
+* [ЛР8](sem7/sitelr)
+
+
