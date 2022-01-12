@@ -1,0 +1,8 @@
+li a {
+    color: black;
+    font-size: 40px;
+}
+
+body {
+    background: white url("images/background.jpg") repeat;
+}
