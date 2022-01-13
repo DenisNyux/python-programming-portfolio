@@ -102,6 +102,6 @@
 * [ЛР5](https://replit.com/@DenisNyukhalov/LR5-sem7#main.py)
 * [ЛР6](https://replit.com/@DenisNyukhalov/LR6-sem7#main.py)
 * [ЛР7](sem7/sitelr)
-* [ЛР8](https://github.com/DenisNyux/django-sample)
+* [ЛР8](https://github.com/DenisNyux/django-sample/tree/main/docker/sitelr)
 
 
